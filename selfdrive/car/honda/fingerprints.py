@@ -61,6 +61,7 @@ FW_VERSIONS = {
       b'57114-TWA-B520\x00\x00',
       b'57114-TWA-C510\x00\x00',
       b'57114-TWB-H030\x00\x00',
+      b'57114-TTA-J030\x00\x00',
     ],
     (Ecu.eps, 0x18da30f1, None): [
       b'39990-TBX-H120\x00\x00',
@@ -73,6 +74,7 @@ FW_VERSIONS = {
       b'39990-TVA-X040\x00\x00',
       b'39990-TVE-H130\x00\x00',
       b'39990-TWB-H120\x00\x00',
+      b'39990-TTA-J040\x00\x00',
     ],
     (Ecu.srs, 0x18da53f1, None): [
       b'77959-TBX-H230\x00\x00',
@@ -84,10 +86,12 @@ FW_VERSIONS = {
       b'77959-TWA-A440\x00\x00',
       b'77959-TWA-L420\x00\x00',
       b'77959-TWB-H220\x00\x00',
+      b'77959-TTA-N930\x00\x00',
     ],
     (Ecu.hud, 0x18da61f1, None): [
       b'78209-TVA-A010\x00\x00',
       b'78209-TVA-A110\x00\x00',
+      b'36802-TTA-J070\x00\x00',
     ],
     (Ecu.fwdRadar, 0x18dab0f1, None): [
       b'36802-TBX-H140\x00\x00',
@@ -113,6 +117,7 @@ FW_VERSIONS = {
       b'36161-TWA-A070\x00\x00',
       b'36161-TWA-A330\x00\x00',
       b'36161-TWB-H040\x00\x00',
+      b'38897-TTA-J010\x00\x00',
     ],
     (Ecu.gateway, 0x18daeff1, None): [
       b'38897-TVA-A010\x00\x00',
